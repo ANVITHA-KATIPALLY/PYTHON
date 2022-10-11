@@ -1,0 +1,28 @@
+x = int(input("enter a number:"))
+if x<0:
+print("num is negative")
+elif x==0:
+print("num is zero")
+elif x==1:
+print("num is single")
+else:
+print("moreee nums")
+
+# another example for if statement
+n = int(input("how old are you?"))
+if n==19:
+print("adult")
+else:
+print("child")
+
+# for loop program:
+words = ['ammulu', 'sham', 'nani']
+for i in words:
+print(i, len(i))
+
+# for loop another program
+n = int(input("enter a num"))
+for i in range(n):
+print(i, i*i,i*i*i)
+
+
