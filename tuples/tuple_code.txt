@@ -1,0 +1,11 @@
+a = ("apples","orange","grapes")
+print(a)
+print(a[0])
+print(a[0:2])
+a1 = ("ammu","sham","sunny")
+print(a1)
+
+a3 = a + a1
+print(a3)
+a4 = ("hello")
+print(a4*4)
