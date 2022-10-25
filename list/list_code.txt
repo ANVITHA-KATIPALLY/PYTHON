@@ -1,0 +1,6 @@
+a = {"ammu":8,"sunny":18,"mmu":20}
+print(a)
+del a["ammu"]
+print(a)
+a = {"ammu":8,"ammu":18}
+print(a)
