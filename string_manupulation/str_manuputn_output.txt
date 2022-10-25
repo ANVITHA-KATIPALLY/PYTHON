@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Scripts\python.exe C:\Users\Kranthi\PycharmProjects\firstproject\string_manupulation.py 
+hello
+hello
+ammukatipally
+ammu k
+unununium
+python
+a
+mulu
+ammulu
+lu
+muluammu
+
+Process finished with exit code 0
