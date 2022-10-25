@@ -1,1 +1,1 @@
-
+print("Ammu" + " " + input("where are you?") + input("how old are you?"))
