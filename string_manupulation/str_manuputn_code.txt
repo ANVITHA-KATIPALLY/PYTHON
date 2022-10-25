@@ -1,0 +1,10 @@
+print("hello\nhello")
+print("ammu" + "katipally")
+print("ammu"+" "+"k")
+print(3 * 'un' + 'ium')
+print('py' 'thon')
+word = 'ammulu'
+print(word[0])
+print(word[2:])
+print(word[:])
+print(word[-2:])
