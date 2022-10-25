@@ -1,0 +1,15 @@
+print(1+8)
+print(9-23)
+print(3*6)
+print(67/3)
+print(87//3)
+print(6**3)
+print(45%5)
+a=9
+print(a)
+a=8
+b=7
+print(a*b)
+a = 3
+b = 8
+print(a**b)
